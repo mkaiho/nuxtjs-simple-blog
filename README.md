@@ -1,0 +1,1 @@
+# nuxtjs-simple-blog
